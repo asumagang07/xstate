@@ -1,7 +1,7 @@
-import Login from "./LoginMachine";
+import AuthApp from "./apps/auth";
 
 const App = () => {
-  return <Login />;
+  return <AuthApp />;
 };
 
 export default App;
